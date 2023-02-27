@@ -65,6 +65,8 @@ create table syst.produtos(
 );
 go
 
+insert 
+
 
 
 
